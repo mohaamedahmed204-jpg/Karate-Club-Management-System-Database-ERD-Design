@@ -79,7 +79,7 @@ The system architecture was constructed across two key phases:
 
 ## 👨‍🏫 Instructor
 
-Dr. Mohammed Abu-Hadhoud
+Dr. Mohammed Abu-Hadhoud.
 Founder & Instructor — Programming Advices
 
 Programming Advices
