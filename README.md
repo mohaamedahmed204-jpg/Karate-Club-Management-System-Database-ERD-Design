@@ -73,3 +73,14 @@ The system architecture was constructed across two key phases:
 * `KarateClub_ERD.drawio` – Entity-Relationship Diagram file.
 * `KarateClub_RelationalSchema.drawio` – Relational Database Schema diagram.
 * `KarateClub_Database.mdf / .bak` – Database data and backup files for testing and deployment.
+
+---
+
+
+## 👨‍🏫 Instructor
+
+Dr. Mohammed Abu-Hadhoud
+Founder & Instructor — Programming Advices
+
+Programming Advices
+https://programmingadvices.com
